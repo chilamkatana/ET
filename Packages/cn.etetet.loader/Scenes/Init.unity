@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: da69f13736d4f6348b8c46130262498c,
+  m_LightingDataAsset: {fileID: 112000000, guid: e257c1ea6419d4639a659657f0d61590,
     type: 2}
   m_LightingSettings: {fileID: 1972482029}
 --- !u!196 &4
@@ -938,7 +938,7 @@ LightingSettings:
   m_AlbedoBoost: 1
   m_IndirectOutputScale: 1
   m_UsingShadowmask: 0
-  m_BakeBackend: 1
+  m_BakeBackend: 2
   m_LightmapMaxSize: 1024
   m_LightmapSizeFixed: 0
   m_UseMipmapLimits: 1
