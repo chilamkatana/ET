@@ -19,6 +19,26 @@ MonoBehaviour:
     Version: 
   - Name: cn.etetet.yooassets
     Version: 2.1.4
+  - Name: cn.etetet.yiuiyooassets
+    Version: 0.7.2
+  - Name: cn.etetet.yiuitips
+    Version: 0.7.2
+  - Name: cn.etetet.yiuireddot
+    Version: 0.7.2
+  - Name: cn.etetet.yiuiloopscrollrectasync
+    Version: 0.7.2
+  - Name: cn.etetet.yiuilocalization
+    Version: 0.7.2
+  - Name: cn.etetet.yiuiinvoke
+    Version: 3.0.0
+  - Name: cn.etetet.yiuigm
+    Version: 0.7.2
+  - Name: cn.etetet.yiuiframework
+    Version: 0.7.2
+  - Name: cn.etetet.yiuieffect
+    Version: 0.7.2
+  - Name: cn.etetet.yiui3ddisplay
+    Version: 0.7.2
   - Name: cn.etetet.memorypack
     Version: 1.10.0
   - Name: cn.etetet.mathematics
@@ -147,6 +167,8 @@ MonoBehaviour:
     Version: 3.0.0
   - Name: cn.etetet.actorlocation
     Version: 3.0.0
+  - Name: cn.etetet.yiuistatesync
+    Version: 0.7.2
   BanPackageInfo: []
-  LastUpdateTime: 1739461731
+  LastUpdateTime: 1739545501
   UpdateInterval: 3600
