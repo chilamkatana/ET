@@ -39,6 +39,8 @@ MonoBehaviour:
     Version: 0.7.2
   - Name: cn.etetet.yiui3ddisplay
     Version: 0.7.2
+  - Name: cn.etetet.yiui
+    Version: 
   - Name: cn.etetet.memorypack
     Version: 1.10.0
   - Name: cn.etetet.mathematics
@@ -170,5 +172,5 @@ MonoBehaviour:
   - Name: cn.etetet.yiuistatesync
     Version: 0.7.2
   BanPackageInfo: []
-  LastUpdateTime: 1739545501
+  LastUpdateTime: 1739796058
   UpdateInterval: 3600
