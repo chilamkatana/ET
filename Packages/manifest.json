@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "cn.etetet.yiuistatesync": "0.7.2",
     "cn.etetet.actorlocation": "3.0.0",
     "cn.etetet.ai": "3.0.0",
     "cn.etetet.aoi": "3.0.0",
@@ -25,6 +24,16 @@
     "cn.etetet.ui": "3.0.0",
     "cn.etetet.unit": "3.0.0",
     "cn.etetet.watcher": "3.0.0",
+    "cn.etetet.yiui3ddisplay": "1.0.0",
+    "cn.etetet.yiuieffect": "1.0.0",
+    "cn.etetet.yiuiframework": "1.0.0",
+    "cn.etetet.yiuigm": "1.0.0",
+    "cn.etetet.yiuilocalization": "1.0.0",
+    "cn.etetet.yiuiloopscrollrectasync": "1.0.0",
+    "cn.etetet.yiuireddot": "1.0.0",
+    "cn.etetet.yiuistatesync": "1.0.0",
+    "cn.etetet.yiuitips": "1.0.0",
+    "cn.etetet.yiuiyooassets": "1.0.0",
     "com.unity.ai.navigation": "2.0.4",
     "com.unity.ide.rider": "3.0.31",
     "com.unity.ide.visualstudio": "2.0.22",
