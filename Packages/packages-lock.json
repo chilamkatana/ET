@@ -203,7 +203,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.yiuiframework": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0"
       }
     },
     "cn.etetet.yiuieffect": {
@@ -211,7 +211,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.yiuiframework": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0"
       }
     },
     "cn.etetet.yiuiframework": {
@@ -219,7 +219,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.core": "2.0.8",
+        "cn.etetet.core": "3.0.2",
         "cn.etetet.yiuiinvoke": "3.0.0"
       }
     },
@@ -228,8 +228,8 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.yiuiframework": "0.7.2",
-        "cn.etetet.yiuiloopscrollrectasync": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0",
+        "cn.etetet.yiuiloopscrollrectasync": "1.0.0"
       }
     },
     "cn.etetet.yiuiinvoke": {
@@ -243,7 +243,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.yiuiframework": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0"
       }
     },
     "cn.etetet.yiuiloopscrollrectasync": {
@@ -251,7 +251,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.yiuiframework": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0"
       }
     },
     "cn.etetet.yiuireddot": {
@@ -259,8 +259,8 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.yiuiframework": "0.7.2",
-        "cn.etetet.yiuiloopscrollrectasync": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0",
+        "cn.etetet.yiuiloopscrollrectasync": "1.0.0"
       }
     },
     "cn.etetet.yiuistatesync": {
@@ -268,17 +268,17 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.statesync": "2.0.11",
+        "cn.etetet.statesync": "3.0.4",
         "cn.etetet.packagemanager": "1.0.2",
-        "cn.etetet.yiuiframework": "0.7.2",
-        "cn.etetet.yiuiyooassets": "0.7.2",
-        "cn.etetet.yiuiloopscrollrectasync": "0.7.2",
-        "cn.etetet.yiuigm": "0.7.2",
-        "cn.etetet.yiuireddot": "0.7.2",
-        "cn.etetet.yiuitips": "0.7.2",
-        "cn.etetet.yiuilocalization": "0.7.2",
-        "cn.etetet.yiui3ddisplay": "0.7.2",
-        "cn.etetet.yiuieffect": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0",
+        "cn.etetet.yiuiyooassets": "1.0.0",
+        "cn.etetet.yiuiloopscrollrectasync": "1.0.0",
+        "cn.etetet.yiuigm": "1.0.0",
+        "cn.etetet.yiuireddot": "1.0.0",
+        "cn.etetet.yiuitips": "1.0.0",
+        "cn.etetet.yiuilocalization": "1.0.0",
+        "cn.etetet.yiui3ddisplay": "1.0.0",
+        "cn.etetet.yiuieffect": "1.0.0"
       }
     },
     "cn.etetet.yiuitips": {
@@ -286,7 +286,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.yiuiframework": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0"
       }
     },
     "cn.etetet.yiuiyooassets": {
@@ -294,7 +294,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "cn.etetet.yiuiframework": "0.7.2"
+        "cn.etetet.yiuiframework": "1.0.0"
       }
     },
     "cn.etetet.yooassets": {
