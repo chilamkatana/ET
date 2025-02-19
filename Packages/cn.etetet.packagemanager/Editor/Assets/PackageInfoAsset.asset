@@ -147,6 +147,28 @@ MonoBehaviour:
     Version: 3.0.0
   - Name: cn.etetet.actorlocation
     Version: 3.0.0
+  - Name: cn.etetet.yiuiloopscrollrectasync
+    Version: 1.0.0
+  - Name: cn.etetet.yiuireddot
+    Version: 1.0.0
+  - Name: cn.etetet.yiui3ddisplay
+    Version: 1.0.0
+  - Name: cn.etetet.yiuiinvoke
+    Version: 3.0.0
+  - Name: cn.etetet.yiuitips
+    Version: 1.0.0
+  - Name: cn.etetet.yiuigm
+    Version: 1.0.0
+  - Name: cn.etetet.yiuiframework
+    Version: 1.0.0
+  - Name: cn.etetet.yiuiyooassets
+    Version: 1.0.0
+  - Name: cn.etetet.yiuilocalization
+    Version: 1.0.0
+  - Name: cn.etetet.yiuieffect
+    Version: 1.0.0
+  - Name: cn.etetet.yiuistatesync
+    Version: 1.0.0
   BanPackageInfo: []
   LastUpdateTime: 1739932257
   UpdateInterval: 3600
