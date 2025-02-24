@@ -37,6 +37,14 @@ namespace ET.Client
             self.UIPanel.Priority = 0;
             self.UIPanel.CachePanelTime = 10;
 
+            self.u_EventShop = self.UIBase.EventTable.FindEvent<UITaskEventP0>("u_EventShop");
+            self.u_EventShopHandle = self.u_EventShop.Add(self,MainPanelComponent.OnEventShopInvoke);
+            self.u_EventGem = self.UIBase.EventTable.FindEvent<UITaskEventP0>("u_EventGem");
+            self.u_EventGemHandle = self.u_EventGem.Add(self,MainPanelComponent.OnEventGemInvoke);
+            self.u_EventGold = self.UIBase.EventTable.FindEvent<UITaskEventP0>("u_EventGold");
+            self.u_EventGoldHandle = self.u_EventGold.Add(self,MainPanelComponent.OnEventGoldInvoke);
+            self.u_EventHero = self.UIBase.EventTable.FindEvent<UITaskEventP0>("u_EventHero");
+            self.u_EventHeroHandle = self.u_EventHero.Add(self,MainPanelComponent.OnEventHeroInvoke);
 
         }
     }

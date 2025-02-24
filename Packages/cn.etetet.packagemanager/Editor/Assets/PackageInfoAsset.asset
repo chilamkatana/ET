@@ -19,28 +19,10 @@ MonoBehaviour:
     Version: 
   - Name: cn.etetet.yooassets
     Version: 2.1.4
-  - Name: cn.etetet.yiuiyooassets
-    Version: 1.0.0
-  - Name: cn.etetet.yiuitips
-    Version: 1.0.0
-  - Name: cn.etetet.yiuireddot
-    Version: 1.0.0
-  - Name: cn.etetet.yiuiloopscrollrectasync
-    Version: 1.0.0
-  - Name: cn.etetet.yiuilocalization
-    Version: 1.0.0
   - Name: cn.etetet.yiuiinvoke
     Version: 3.0.0
-  - Name: cn.etetet.yiuigm
-    Version: 1.0.0
-  - Name: cn.etetet.yiuiframework
-    Version: 1.0.0
-  - Name: cn.etetet.yiuieffect
-    Version: 1.0.0
   - Name: cn.etetet.yiuidemo
     Version: 
-  - Name: cn.etetet.yiui3ddisplay
-    Version: 1.0.0
   - Name: cn.etetet.yiui
     Version: 
   - Name: cn.etetet.memorypack
@@ -123,6 +105,26 @@ MonoBehaviour:
     Version: 3.0.34
   - Name: com.unity.ai.navigation
     Version: 2.0.6
+  - Name: cn.etetet.yiuiyooassets
+    Version: 1.0.0
+  - Name: cn.etetet.yiuitips
+    Version: 1.0.0
+  - Name: cn.etetet.yiuistatesync
+    Version: 1.0.0
+  - Name: cn.etetet.yiuireddot
+    Version: 1.0.0
+  - Name: cn.etetet.yiuiloopscrollrectasync
+    Version: 1.0.0
+  - Name: cn.etetet.yiuilocalization
+    Version: 1.0.0
+  - Name: cn.etetet.yiuigm
+    Version: 1.0.0
+  - Name: cn.etetet.yiuiframework
+    Version: 1.0.0
+  - Name: cn.etetet.yiuieffect
+    Version: 1.0.0
+  - Name: cn.etetet.yiui3ddisplay
+    Version: 1.0.0
   - Name: cn.etetet.watcher
     Version: 3.0.0
   - Name: cn.etetet.unit
@@ -171,28 +173,6 @@ MonoBehaviour:
     Version: 3.0.0
   - Name: cn.etetet.actorlocation
     Version: 3.0.0
-  - Name: cn.etetet.yiuiloopscrollrectasync
-    Version: 1.0.0
-  - Name: cn.etetet.yiuireddot
-    Version: 1.0.0
-  - Name: cn.etetet.yiui3ddisplay
-    Version: 1.0.0
-  - Name: cn.etetet.yiuiinvoke
-    Version: 3.0.0
-  - Name: cn.etetet.yiuitips
-    Version: 1.0.0
-  - Name: cn.etetet.yiuigm
-    Version: 1.0.0
-  - Name: cn.etetet.yiuiframework
-    Version: 1.0.0
-  - Name: cn.etetet.yiuiyooassets
-    Version: 1.0.0
-  - Name: cn.etetet.yiuilocalization
-    Version: 1.0.0
-  - Name: cn.etetet.yiuieffect
-    Version: 1.0.0
-  - Name: cn.etetet.yiuistatesync
-    Version: 1.0.0
   BanPackageInfo: []
-  LastUpdateTime: 1739931960
+  LastUpdateTime: 1739964715
   UpdateInterval: 3600

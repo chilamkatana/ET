@@ -22,6 +22,18 @@ namespace ET.Client
         public YIUIWindowComponent UIWindow => u_UIWindow;
         public EntityRef<YIUIPanelComponent> u_UIPanel;
         public YIUIPanelComponent UIPanel => u_UIPanel;
+        public UITaskEventP0 u_EventShop;
+        public UITaskEventHandleP0 u_EventShopHandle;
+        public const string OnEventShopInvoke = "MainPanelComponent.OnEventShopInvoke";
+        public UITaskEventP0 u_EventGem;
+        public UITaskEventHandleP0 u_EventGemHandle;
+        public const string OnEventGemInvoke = "MainPanelComponent.OnEventGemInvoke";
+        public UITaskEventP0 u_EventGold;
+        public UITaskEventHandleP0 u_EventGoldHandle;
+        public const string OnEventGoldInvoke = "MainPanelComponent.OnEventGoldInvoke";
+        public UITaskEventP0 u_EventHero;
+        public UITaskEventHandleP0 u_EventHeroHandle;
+        public const string OnEventHeroInvoke = "MainPanelComponent.OnEventHeroInvoke";
 
     }
 }
