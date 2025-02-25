@@ -34,6 +34,12 @@ namespace ET.Client
         public UITaskEventP0 u_EventHero;
         public UITaskEventHandleP0 u_EventHeroHandle;
         public const string OnEventHeroInvoke = "MainPanelComponent.OnEventHeroInvoke";
+        public UITaskEventP0 u_EventEquipment;
+        public UITaskEventHandleP0 u_EventEquipmentHandle;
+        public const string OnEventEquipmentInvoke = "MainPanelComponent.OnEventEquipmentInvoke";
+        public UITaskEventP0 u_EventSettings;
+        public UITaskEventHandleP0 u_EventSettingsHandle;
+        public const string OnEventSettingsInvoke = "MainPanelComponent.OnEventSettingsInvoke";
 
     }
 }

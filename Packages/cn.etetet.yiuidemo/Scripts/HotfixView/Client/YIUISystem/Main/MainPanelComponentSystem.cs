@@ -37,21 +37,30 @@ namespace ET.Client
         private static async ETTask OnEventGoldInvoke(this MainPanelComponent self)
         {
             await YIUIMgrComponent.Inst.Root.OpenPanelAsync<ShopPanelComponent, EShopPanelViewEnum>(EShopPanelViewEnum.ShopGoldView);
-            await ETTask.CompletedTask;
         }
         
         [YIUIInvoke(MainPanelComponent.OnEventGemInvoke)]
         private static async ETTask OnEventGemInvoke(this MainPanelComponent self)
         {
             await YIUIMgrComponent.Inst.Root.OpenPanelAsync<ShopPanelComponent, EShopPanelViewEnum>(EShopPanelViewEnum.ShopGemView);
-            await ETTask.CompletedTask;
         }
         
         [YIUIInvoke(MainPanelComponent.OnEventHeroInvoke)]
         private static async ETTask OnEventHeroInvoke(this MainPanelComponent self)
         {
             await YIUIMgrComponent.Inst.Root.OpenPanelAsync<HeroPanelComponent>();
-            await ETTask.CompletedTask;
+        }
+        
+        [YIUIInvoke(MainPanelComponent.OnEventEquipmentInvoke)]
+        private static async ETTask OnEventEquipmentInvoke(this MainPanelComponent self)
+        {
+            await YIUIMgrComponent.Inst.Root.OpenPanelAsync<EquipmentPanelComponent>();
+        }
+        
+        [YIUIInvoke(MainPanelComponent.OnEventSettingsInvoke)]
+        private static async ETTask OnEventSettingsInvoke(this MainPanelComponent self)
+        {
+            await YIUIMgrComponent.Inst.Root.OpenPanelAsync<SettingsPanelComponent>();
         }
         #endregion YIUIEvent结束
     }

@@ -44,6 +44,7 @@
     "UIViewParentName": "ViewParent",
     "UIYIUIViewParentName": "YIUIViewParent",
     "SourceSplitReserve": false,
+    "DisplayOldCDEInspector": false,
     "IsLowQuality": false,
     "DesignScreenWidth": 1920,
     "DesignScreenHeight": 1080,

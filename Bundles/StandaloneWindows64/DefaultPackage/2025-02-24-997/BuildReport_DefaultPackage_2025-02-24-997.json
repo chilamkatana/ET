@@ -1,0 +1,2616 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.4",
+        "UnityVersion": "6000.0.39f1",
+        "BuildDate": "2025/2/24 16:38:17",
+        "BuildSeconds": 7,
+        "BuildTarget": 19,
+        "BuildMode": 1,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2025-02-24-997",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 361,
+        "MainAssetTotalCount": 85,
+        "AllBundleTotalCount": 64,
+        "AllBundleTotalSize": 18961012,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "CommandLine.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/CommandLine.dll.bytes",
+            "AssetGUID": "cdc4593d0a0045d41962eb2602703944",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.Core.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.Core.dll.bytes",
+            "AssetGUID": "80de34cccee2ec84eaaa5ee50308e823",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.Loader.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.Loader.dll.bytes",
+            "AssetGUID": "3fe89ea353e16c64490e17037753a9bd",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.MemoryPack.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.MemoryPack.dll.bytes",
+            "AssetGUID": "8e32d35c42c728f42a90cf9d1c7b2caf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.YIUIFramework.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.YIUIFramework.dll.bytes",
+            "AssetGUID": "a7101aae70688684f80f4c6ff3c641d3",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.YooAssets.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/ET.YooAssets.dll.bytes",
+            "AssetGUID": "4d90f529a8d0e684683b5d42ac5314d8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "MongoDB.Bson.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/MongoDB.Bson.dll.bytes",
+            "AssetGUID": "e132ae2f61d21d140aa7439a537c86e8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/mscorlib.dll.bytes",
+            "AssetGUID": "279306b313e8498408c1e7cefbfd75d6",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "Sirenix.Serialization.AOTGenerated.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/Sirenix.Serialization.AOTGenerated.dll.bytes",
+            "AssetGUID": "ef0775640a8684c4493c1ee0a0f114c1",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.Core.dll.bytes",
+            "AssetGUID": "77401cff89ca45543a9824e7434f2da0",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.dll.bytes",
+            "AssetGUID": "b8577f782109c504a89dc43572b76abd",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Runtime.CompilerServices.Unsafe.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.Runtime.CompilerServices.Unsafe.dll.bytes",
+            "AssetGUID": "ad613c9020ec09447868885b7400c8df",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "MainBundleSize": 3976425,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.Hotfix.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.dll.bytes",
+            "AssetGUID": "528c8349008a09e49a2a870c8bbfc864",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 605528,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.Hotfix.pdb",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.pdb.bytes",
+            "AssetGUID": "4675bfe2fd3b2ab45990088522508d78",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 605528,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.HotfixView.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.dll.bytes",
+            "AssetGUID": "9296e34e1bdc29e4095ef03d964df65c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 605528,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.HotfixView.pdb",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.pdb.bytes",
+            "AssetGUID": "083816fd878b85645a27f26ed11e8a8e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 605528,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.Model.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Model.dll.bytes",
+            "AssetGUID": "5c7853180f7e3954794eaccf0a2b138d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 605528,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.Model.pdb",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.Model.pdb.bytes",
+            "AssetGUID": "5c5bafdc91a013e47bcf7ec3686b32ed",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 605528,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.ModelView.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.dll.bytes",
+            "AssetGUID": "3a1728f49b638a94bac88a84cd15a39e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 605528,
+            "DependAssets": []
+        },
+        {
+            "Address": "ET.ModelView.pdb",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.pdb.bytes",
+            "AssetGUID": "548b9f05ff180304d8dc4aafb31a6bd1",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "MainBundleSize": 605528,
+            "DependAssets": []
+        },
+        {
+            "Address": "AIConfigCategory",
+            "AssetPath": "Packages/cn.etetet.excel/Config/Bytes/c/AIConfigCategory.bytes",
+            "AssetGUID": "c902a1a0ebdc292468225935e1248c4e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_excel_config_bytes_c.bundle",
+            "MainBundleSize": 1584,
+            "DependAssets": []
+        },
+        {
+            "Address": "UnitConfigCategory",
+            "AssetPath": "Packages/cn.etetet.excel/Config/Bytes/c/UnitConfigCategory.bytes",
+            "AssetGUID": "4686ca8895dd7414e8a6e3f4bb5e5ac8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_excel_config_bytes_c.bundle",
+            "MainBundleSize": 1584,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map1",
+            "AssetPath": "Packages/cn.etetet.demores/Scenes/Map1.unity",
+            "AssetGUID": "a5294483f20f40d449699101bb428cda",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle",
+            "MainBundleSize": 1409472,
+            "DependAssets": [
+                "Packages/cn.etetet.demores/Scenes/Map1/Lightmap-0_comp_light.exr",
+                "Packages/cn.etetet.demores/Scenes/Map1Settings.lighting",
+                "Packages/cn.etetet.demores/Scenes/Mat/Urp.mat",
+                "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                "Packages/cn.etetet.demores/Scenes/Map1/ReflectionProbe-0.exr",
+                "Packages/cn.etetet.demores/Scenes/Map1/Lightmap-0_comp_dir.png"
+            ]
+        },
+        {
+            "Address": "Map2",
+            "AssetPath": "Packages/cn.etetet.demores/Scenes/Map2.unity",
+            "AssetGUID": "064123f1e5067b249a9fd8967ddbde09",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle",
+            "MainBundleSize": 23273,
+            "DependAssets": [
+                "Packages/cn.etetet.demores/Scenes/Map2Settings.lighting",
+                "Packages/cn.etetet.demores/Scenes/Map2/ReflectionProbe-0.exr",
+                "Packages/cn.etetet.demores/Scenes/Mat/Urp.mat",
+                "Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_dir.png",
+                "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                "Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_light.exr"
+            ]
+        },
+        {
+            "Address": "UIHelp",
+            "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UIHelp.prefab",
+            "AssetGUID": "c54e8d9624286b24fa23519e5df2ed0a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uihelp.bundle",
+            "MainBundleSize": 4758,
+            "DependAssets": []
+        },
+        {
+            "Address": "UILobby",
+            "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UILobby.prefab",
+            "AssetGUID": "d8d87e53d93e234448658c9a801a9967",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilobby.bundle",
+            "MainBundleSize": 6699,
+            "DependAssets": []
+        },
+        {
+            "Address": "UILogin",
+            "AssetPath": "Packages/cn.etetet.statesync/Bundles/UI/UILogin.prefab",
+            "AssetGUID": "9f6d9adc6f537764fa0fea29671e77bf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilogin.bundle",
+            "MainBundleSize": 8775,
+            "DependAssets": []
+        },
+        {
+            "Address": "Unit",
+            "AssetPath": "Packages/cn.etetet.demores/Bundles/Unit/Unit.prefab",
+            "AssetGUID": "cfaf4529ce2243c4c85126e9d008897b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
+            "MainBundleSize": 2555,
+            "DependAssets": [
+                "Packages/cn.etetet.demores/Unit/Skeleton/SkeletonController.controller",
+                "Packages/cn.etetet.demores/Unit/Skeleton/Skeleton.prefab",
+                "Packages/cn.etetet.demores/Unit/Skeleton/Texture/Skeleton_D.tif",
+                "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Skeleton@Idle.FBX",
+                "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Materials/skeleton_D.mat",
+                "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Skeleton@Run.FBX"
+            ]
+        },
+        {
+            "Address": "GMCommandItem",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMCommandItem.prefab",
+            "AssetGUID": "f80c3d6e627b9ee49936e23bb0194e28",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30128,
+            "DependAssets": []
+        },
+        {
+            "Address": "GMPanel",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMPanel.prefab",
+            "AssetGUID": "7c8244bfcb301b24eb9cd99f4446d243",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30128,
+            "DependAssets": []
+        },
+        {
+            "Address": "GMParamItem",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMParamItem.prefab",
+            "AssetGUID": "c799eab28ccee7d49872a6d5356c21e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30128,
+            "DependAssets": []
+        },
+        {
+            "Address": "GMTypeItem",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMTypeItem.prefab",
+            "AssetGUID": "f94183551c09bc148982271dd831d3c8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30128,
+            "DependAssets": []
+        },
+        {
+            "Address": "GMView",
+            "AssetPath": "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMView.prefab",
+            "AssetGUID": "032a5520c2b71c349a684af0e1df8a9a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "MainBundleSize": 30128,
+            "DependAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "Address": "RedDotDataItem",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotDataItem.prefab",
+            "AssetGUID": "1629fdf43f57fec4298fbce74a07a3e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+            "MainBundleSize": 42050,
+            "DependAssets": []
+        },
+        {
+            "Address": "RedDotPanel",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotPanel.prefab",
+            "AssetGUID": "6363f4da10e95ca42bcbdc30c14944da",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+            "MainBundleSize": 42050,
+            "DependAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "Address": "RedDotStackItem",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotStackItem.prefab",
+            "AssetGUID": "baccddcae3e62974fadaf3dc456d2981",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+            "MainBundleSize": 42050,
+            "DependAssets": []
+        },
+        {
+            "Address": "RedDotConfigAsset",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/RedDot/RedDotConfigAsset.asset",
+            "AssetGUID": "7f57342ba401491439e7a323f0d538ca",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_reddot.bundle",
+            "MainBundleSize": 3171,
+            "DependAssets": []
+        },
+        {
+            "Address": "RedDotKeyAsset",
+            "AssetPath": "Packages/cn.etetet.yiuireddot/Assets/GameRes/RedDot/RedDotKeyAsset.asset",
+            "AssetGUID": "0d18b30d84b979e4082588f8d39d1527",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_reddot.bundle",
+            "MainBundleSize": 3171,
+            "DependAssets": []
+        },
+        {
+            "Address": "TipsTextAnimation_01",
+            "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Animation/TipsTextAnimation_01.anim",
+            "AssetGUID": "9c0926859daaf8b468ac2c76129b913f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_animation.bundle",
+            "MainBundleSize": 6185,
+            "DependAssets": []
+        },
+        {
+            "Address": "TipsMessageView",
+            "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsMessageView.prefab",
+            "AssetGUID": "c30d93aef19d0334889186e6f9dcff37",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+            "MainBundleSize": 12315,
+            "DependAssets": []
+        },
+        {
+            "Address": "TipsPanel",
+            "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsPanel.prefab",
+            "AssetGUID": "9047ccdd6e81d494998b0a508d19e5b8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+            "MainBundleSize": 12315,
+            "DependAssets": []
+        },
+        {
+            "Address": "TipsTextView",
+            "AssetPath": "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsTextView.prefab",
+            "AssetGUID": "a5dda1fd1d69d8f489c1b012f397f87f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+            "MainBundleSize": 12315,
+            "DependAssets": [
+                "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Animation/TipsTextAnimation_01.anim"
+            ]
+        },
+        {
+            "Address": "I2_Chinese",
+            "AssetPath": "Packages/cn.etetet.yiuilocalization/Assets/GameRes/I2Localization/I2_Chinese.csv",
+            "AssetGUID": "d78f9d6faab66f54c8815920566eb56d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilocalization_assets_gameres_i2localization.bundle",
+            "MainBundleSize": 1382,
+            "DependAssets": []
+        },
+        {
+            "Address": "I2_English",
+            "AssetPath": "Packages/cn.etetet.yiuilocalization/Assets/GameRes/I2Localization/I2_English.csv",
+            "AssetGUID": "1dfffc1b8fb22b84da4f9fd264a6f775",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuilocalization_assets_gameres_i2localization.bundle",
+            "MainBundleSize": 1382,
+            "DependAssets": []
+        },
+        {
+            "Address": "YIUIConstAsset",
+            "AssetPath": "Assets/GameRes/YIUI/YIUIConstAsset.txt",
+            "AssetGUID": "bb3f49579adf9df4487a2b2cc096c265",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_yiui.bundle",
+            "MainBundleSize": 2287,
+            "DependAssets": []
+        },
+        {
+            "Address": "DisplayDemoModel",
+            "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/DisplayDemoModel.prefab",
+            "AssetGUID": "92c7563af498ef941b0e28753cb20c0d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+            "MainBundleSize": 9929,
+            "DependAssets": [
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Ani/Materials/skeleton_D.mat",
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/SkeletonController.controller",
+                "Packages/cn.etetet.demores/Unit/Skeleton/Texture/Skeleton_D.tif",
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Ani/Skeleton@Idle.FBX",
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/Skeleton@Skin.FBX",
+                "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/Materials/skeleton_D.mat",
+                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
+            ]
+        },
+        {
+            "Address": "ModelDisplayDemoView",
+            "AssetPath": "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Prefabs/ModelDisplayDemoView.prefab",
+            "AssetGUID": "a1f84e1fe81ba60439aa58a273cf49e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_prefabs.bundle",
+            "MainBundleSize": 11553,
+            "DependAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "Address": "LoopScrollHorizontalView",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollHorizontalView.prefab",
+            "AssetGUID": "fa54e251dfa45fa4b8bfc53c7c33edaf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16163,
+            "DependAssets": []
+        },
+        {
+            "Address": "LoopScrollRectDemoItem",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollRectDemoItem.prefab",
+            "AssetGUID": "d24f1f22fab23f241b81b4889bffb745",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16163,
+            "DependAssets": []
+        },
+        {
+            "Address": "LoopScrollRectDemoPanel",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollRectDemoPanel.prefab",
+            "AssetGUID": "06667c3f381b3a94b9cea17b5daa40f8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16163,
+            "DependAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "Address": "LoopScrollVerticalGroupView",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollVerticalGroupView.prefab",
+            "AssetGUID": "af394dafe27d6294fb3fd63a9f917e25",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16163,
+            "DependAssets": []
+        },
+        {
+            "Address": "LoopScrollVerticalView",
+            "AssetPath": "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollVerticalView.prefab",
+            "AssetGUID": "a176502f7944cd244b8d1d3b3e44adc7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "MainBundleSize": 16163,
+            "DependAssets": []
+        },
+        {
+            "Address": "YIUIClose_Gray",
+            "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_Gray.prefab",
+            "AssetGUID": "e1d5b91b01e4b8e4f8c0443edcaed44a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+            "MainBundleSize": 9029,
+            "DependAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "Address": "YIUIClose_White",
+            "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+            "AssetGUID": "a9f9a10f1aed79141bb2a7b55f3e7d91",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+            "MainBundleSize": 9029,
+            "DependAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "Address": "YIUIIClose_Black",
+            "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIIClose_Black.prefab",
+            "AssetGUID": "d3deb86bcc12f1e44ab08b7e54160f16",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+            "MainBundleSize": 9029,
+            "DependAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "Address": "YIUICloseCommon",
+            "AssetPath": "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+            "AssetGUID": "d674ee91b1b97f24ebd3b751386eb2a2",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+            "MainBundleSize": 5420,
+            "DependAssets": []
+        },
+        {
+            "Address": "YIUIRoot",
+            "AssetPath": "Packages/cn.etetet.yiuistatesync/Prefabs/YIUIRoot.prefab",
+            "AssetGUID": "bf844da1a9c6949459dffca7f336ef4a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuistatesync_prefabs.bundle",
+            "MainBundleSize": 6392,
+            "DependAssets": []
+        },
+        {
+            "Address": "YIUIDemoClose_Black",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoClose_Black.prefab",
+            "AssetGUID": "9aa79b860e3396c46a9250c96ebfdf3b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_common_prefabs.bundle",
+            "MainBundleSize": 8474,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Arrow_Back.png",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "Address": "YIUIDemoHome",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHome.prefab",
+            "AssetGUID": "521d4a76a4c68714c942316b0815b147",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_common_prefabs.bundle",
+            "MainBundleSize": 8474,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Home.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHomeCommon.prefab"
+            ]
+        },
+        {
+            "Address": "YIUIDemoHomeCommon",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHomeCommon.prefab",
+            "AssetGUID": "fd2bdf29978b9e84d86b935eacfb829b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_common_prefabs.bundle",
+            "MainBundleSize": 8474,
+            "DependAssets": []
+        },
+        {
+            "Address": "EquipmentPanel",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Equipment/Prefabs/EquipmentPanel.prefab",
+            "AssetGUID": "dee877bd0f6e1954098158e70f5e17e3",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_equipment_prefabs.bundle",
+            "MainBundleSize": 61552,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Ring_Disable.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_5.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Focus_Demo_Check.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Lock.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Boots.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHome.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Boots_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Energy.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Armor.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Sword.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_tooth_red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Shield.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Basic_Rectangle_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_blue_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Ring_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_red_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Green.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Dot_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_ring_gold.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_eye_blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_2.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoClose_Black.prefab",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_8.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Gem.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/Background_Gradient_Panel_01.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Helmet.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_red_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_hammer_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Add_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/icon_color_delete.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_ring_blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_shield_blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_blue_3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Weapon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Arrow_Back.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_6.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_shield_wood.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Yellow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_9.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Coins.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_fish.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Character/Character_Platform.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_tooth_posion.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_hammer_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_leaf.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Square_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Purple.png",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_gem_red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_hammer_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Home.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Boots_Disable.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Shield_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Square_InnerBorder.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Square_02_Bg.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHomeCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Character/Character_BackGlow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineFrame_03.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Orange.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Dot_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Oval_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_blue_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Button_Add.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_cyristal.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Basic_Tapered_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Key.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_tooth_hard.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_blue_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_bracelet.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Focus_Demo_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Sword_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Character/Character_Sample_01_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Square_02_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/TabMenu_02_Focus_Yellow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_red_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_stone.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Glove.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Sword_Disable.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_7.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_tooth_dragon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Shield_Disable.png"
+            ]
+        },
+        {
+            "Address": "Equipment1View",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Hero/Prefabs/Equipment1View.prefab",
+            "AssetGUID": "923341572814cbf4d9b593d905f4571a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_hero_prefabs.bundle",
+            "MainBundleSize": 55845,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Coins_s_Gold.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Hexagon_33.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bottom.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_Single_Deco.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Yellow.Png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bg.png",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_shield_blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Gray.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_Single.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_White_DecoLine.png"
+            ]
+        },
+        {
+            "Address": "Equipment2View",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Hero/Prefabs/Equipment2View.prefab",
+            "AssetGUID": "9d770a2e56cf9b74aa5ef29cf680c677",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_hero_prefabs.bundle",
+            "MainBundleSize": 55845,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Coins_s_Gold.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bottom.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Green.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_cyristal.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_Single_Deco.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Yellow.Png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Square_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bg.png",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_White_DecoLine.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_Single.png"
+            ]
+        },
+        {
+            "Address": "Equipment3View",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Hero/Prefabs/Equipment3View.prefab",
+            "AssetGUID": "25fb38ebf5f7d8044a25bd3df3836079",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_hero_prefabs.bundle",
+            "MainBundleSize": 55845,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bottom.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Orange.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_key_bronze.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_Single_Deco.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bg.png",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_White_DecoLine.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_Single.png"
+            ]
+        },
+        {
+            "Address": "HeroPanel",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Hero/Prefabs/HeroPanel.prefab",
+            "AssetGUID": "a315aedb680602d45ab159b2489a6d78",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_hero_prefabs.bundle",
+            "MainBundleSize": 55845,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Arrow_Back.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Wizard.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Darkmage.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Coins.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Priest.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Character/Character_Sample_01_m.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Circle_Single_Focus.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHome.prefab",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Energy.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Assassin.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Gladiator.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Home.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/BackGround_Sample_04_Character_3840.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Basic_Rectangle_Bg.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHomeCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Archer.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineFrame_03.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Dot_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Oval_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Dot_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Button_Add.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Basic_Tapered_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Sorcerer.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Circle_Single_Bg.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoClose_Black.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Key.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Paladin.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Gem.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Star_Grade_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineFrame_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Warrior.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BorderFrame_Circle.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Ranger.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Sword_01.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_2.png"
+            ]
+        },
+        {
+            "Address": "LobbyPanel",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Lobby/Prefabs/LobbyPanel.prefab",
+            "AssetGUID": "e8bb3e84213070b4c96043694c1f9496",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_lobby_prefabs.bundle",
+            "MainBundleSize": 38462,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/BackGround_Sample_01_Title_1920.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/Extensions/UIParticle/UIAdditive.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Ribbon_03_Red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow2.mat",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow3.mat",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineTextFrame_03_Line.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Sample_TitleTextt_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Sample_TitleTextt_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineTextFrame_03_Bg.png"
+            ]
+        },
+        {
+            "Address": "LoginPanel",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Login/Prefabs/LoginPanel.prefab",
+            "AssetGUID": "d88388e238683f2498f10333b45f29e1",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_login_prefabs.bundle",
+            "MainBundleSize": 22398,
+            "DependAssets": []
+        },
+        {
+            "Address": "LoginSignUpView",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Login/Prefabs/LoginSignUpView.prefab",
+            "AssetGUID": "6858fa130429c814e8935f0088b81edb",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_login_prefabs.bundle",
+            "MainBundleSize": 22398,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_ButtonIcon.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Icon_Mail.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Icon_Lock.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Icon_User.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Bg_Single_Activity.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_Button.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_02_Blue.png"
+            ]
+        },
+        {
+            "Address": "LoginView",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Login/Prefabs/LoginView.prefab",
+            "AssetGUID": "14e9060c315b55f498d83c5852c8fabb",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_login_prefabs.bundle",
+            "MainBundleSize": 22398,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_ButtonIcon.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Toggle_Check_Single_On.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Icon_Lock.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Icon_User.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Bg_Single_Activity.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_Button.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_02_Blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Toggle_Check_Single_Off.png"
+            ]
+        },
+        {
+            "Address": "MainPanel",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Main/Prefabs/MainPanel.prefab",
+            "AssetGUID": "619668a89cf65d54cb9b67347dbf7beb",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_main_prefabs.bundle",
+            "MainBundleSize": 63850,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Label_Bubble.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Slider_Fill_Light.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BorderFrame_Square01_Bg.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_02_AdFree_Shadow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Badge_l_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Coins.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Lock_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Dungeon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Chest.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Square_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 40 SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_house.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_flag_sword.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Diamond_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Energy.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Scroll.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Community.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_05_Deco_Single_Yellow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_02_Piggy_Shadow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Gradient.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_equip_helmet_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Ranking.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_BossDungeon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Gear_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Label_Tapered_Border_32_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Label_Flag_02_Shadow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Dot_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Dot_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Button_Add.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/Extensions/UIParticle/UIAdditive.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Slider_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow2.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 28 SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Label_Flag_02_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Key.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Sword_03.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Gem.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Badge_l_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 40 SDF Atlas.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Slider_BgLight.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Calendar.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Slider_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/BackGround_Sample_03_Home_1920.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_04_Gray.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_anvil.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Bg.png",
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 28 SDF Atlas.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Friend.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Diamond_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_bag.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_02_Gems_Shadow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BorderFrame_Square01_Border.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd"
+            ]
+        },
+        {
+            "Address": "LanguageView",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Settings/Prefabs/LanguageView.prefab",
+            "AssetGUID": "0c14caf8ce99ac443827e8bd47ced310",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_settings_prefabs.bundle",
+            "MainBundleSize": 42735,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_swe.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_ButtonIcon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_chn.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_twn.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_esp.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_idn.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_jpn.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_ind.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_Button.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_kor.png",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_deu.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_tur.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Check_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_fra.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_eng.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_prt.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_tha.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_rus.png"
+            ]
+        },
+        {
+            "Address": "SettingsPanel",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Settings/Prefabs/SettingsPanel.prefab",
+            "AssetGUID": "18b30ef800345114ca637b870e6b42f8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_settings_prefabs.bundle",
+            "MainBundleSize": 42735,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Handle_Off.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Sound_Off.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Arrow_Back.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Bgm_Off.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Notification.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Handle_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Bgm_On.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Bg_White_InnerBorder.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Handle_Handle.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_02_Blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineFrame_04.png",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Bg_White_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Diamond_80_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Coins_m.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Handle_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Oval_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Diamond_80_Glow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Sound_On.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoClose_Black.prefab",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/Background_Gradient_Panel_01.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Bg_White_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Sns_Apple_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Bluegray.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Handle_On.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Handle_Fill.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_eng.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Gray.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Sns_Facebook_02.png",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Vibration.png"
+            ]
+        },
+        {
+            "Address": "ShopChestItem",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopChestItem.prefab",
+            "AssetGUID": "92c66e022bfe62742be565da686a2750",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_prefabs.bundle",
+            "MainBundleSize": 118508,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Tv_02.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/Extensions/UIParticle/UIAdditive.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Flag_02_Red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Circle_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Blue.Png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Yellow.Png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_Bg_Single.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Focus_Demo_Border.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_01.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_star2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_FocusFrontGradient.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_star2.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Gem_01.png"
+            ]
+        },
+        {
+            "Address": "ShopChestView",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopChestView.prefab",
+            "AssetGUID": "569e7ea6832bc244595bea04ead3d5a8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_prefabs.bundle",
+            "MainBundleSize": 118508,
+            "DependAssets": []
+        },
+        {
+            "Address": "ShopGemView",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopGemView.prefab",
+            "AssetGUID": "14229e5c15ceaca489bc0d79d1f961a0",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_prefabs.bundle",
+            "MainBundleSize": 118508,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_5.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Flag_02_Blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_3.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_FocusBackGlow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/Extensions/UIParticle/UIAdditive.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Flag_02_Red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Circle_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow2.mat",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow3.mat",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopList.prefab",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_Bg_Single.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_FocusFrontGradient.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_6.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_star2.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_star2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_1.png"
+            ]
+        },
+        {
+            "Address": "ShopGoldView",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopGoldView.prefab",
+            "AssetGUID": "69fc1e308bbfaa040943b5f367521441",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_prefabs.bundle",
+            "MainBundleSize": 118508,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Flag_02_Blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_star1.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_FocusBackGlow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/Extensions/UIParticle/UIAdditive.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Flag_02_Red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Circle_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow2.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_4.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow3.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_star2.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_Bg_Single.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_star1.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_6.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_FocusFrontGradient.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_5.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_star2.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_3.png"
+            ]
+        },
+        {
+            "Address": "ShopList",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopList.prefab",
+            "AssetGUID": "812173013a7f3bd46bf4791db87911f3",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_prefabs.bundle",
+            "MainBundleSize": 118508,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_5.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/Extensions/UIParticle/UIAdditive.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Circle_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow2.mat",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow3.mat",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_Bg_Single.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_star2.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_star2.png"
+            ]
+        },
+        {
+            "Address": "ShopPanel",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopPanel.prefab",
+            "AssetGUID": "9f7cf524dcd96ed49a200fe55e8ffc90",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_prefabs.bundle",
+            "MainBundleSize": 118508,
+            "DependAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Arrow_Back.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Oval_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Button_Add.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Coins.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoClose_Black.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Key.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Gem.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/Background_Gradient_Panel_01.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHome.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/TabMenu_03_Yellow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Energy.png",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Home.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHomeCommon.prefab"
+            ]
+        },
+        {
+            "Address": "Chest_Close_m_01",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_01.png",
+            "AssetGUID": "3443cb2d270604476a4ea0374c523dd7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+            "MainBundleSize": 1491541,
+            "DependAssets": []
+        },
+        {
+            "Address": "Chest_Close_m_02",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_02.png",
+            "AssetGUID": "5674fbf6acb3541069b44a334bb0c5fc",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+            "MainBundleSize": 1491541,
+            "DependAssets": []
+        },
+        {
+            "Address": "Chest_Close_m_03",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_03.png",
+            "AssetGUID": "3a63b7ce7a88c4b8682791fbd1eed7e2",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+            "MainBundleSize": 1491541,
+            "DependAssets": []
+        },
+        {
+            "Address": "Chest_Close_m_04",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_04.png",
+            "AssetGUID": "026ee88daafe748899bc4eb7335776e9",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+            "MainBundleSize": 1491541,
+            "DependAssets": []
+        },
+        {
+            "Address": "Chest_Close_m_05",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_05.png",
+            "AssetGUID": "650ffb20e5fd74b59acb52e669548500",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+            "MainBundleSize": 1491541,
+            "DependAssets": []
+        },
+        {
+            "Address": "icon_language_flag_Chinese",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/icon_language_flag_Chinese.png",
+            "AssetGUID": "70e57d13fa25a4f43a1ca7caf56d146f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+            "MainBundleSize": 1491541,
+            "DependAssets": []
+        },
+        {
+            "Address": "icon_language_flag_English",
+            "AssetPath": "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/icon_language_flag_English.png",
+            "AssetGUID": "4a96c627490723b4abb8da3e2c8e5a91",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+            "MainBundleSize": 1491541,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle",
+            "FileName": "d5f162a9999958c610454ad7c9874500.bundle",
+            "FileHash": "d5f162a9999958c610454ad7c9874500",
+            "FileCRC": "5b44e450",
+            "FileSize": 3976425,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.loader/Bundles/AotDlls/CommandLine.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/ET.Core.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/ET.Loader.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/ET.MemoryPack.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/ET.YIUIFramework.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/ET.YooAssets.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/MongoDB.Bson.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/mscorlib.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/Sirenix.Serialization.AOTGenerated.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/System.Core.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/System.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/AotDlls/System.Runtime.CompilerServices.Unsafe.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
+            "FileName": "32325df7840927a67a2f3003ccd22b3c.bundle",
+            "FileHash": "32325df7840927a67a2f3003ccd22b3c",
+            "FileCRC": "118c105b",
+            "FileSize": 605528,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.pdb.bytes",
+                "Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.pdb.bytes",
+                "Packages/cn.etetet.loader/Bundles/Code/ET.Model.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/Code/ET.Model.pdb.bytes",
+                "Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.dll.bytes",
+                "Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.pdb.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_excel_config_bytes_c.bundle",
+            "FileName": "3b5b3d28c3b34e9de2daa9e28231f638.bundle",
+            "FileHash": "3b5b3d28c3b34e9de2daa9e28231f638",
+            "FileCRC": "893f2ea9",
+            "FileSize": 1584,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.excel/Config/Bytes/c/AIConfigCategory.bytes",
+                "Packages/cn.etetet.excel/Config/Bytes/c/UnitConfigCategory.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle",
+            "FileName": "5bbb0a82a44cc4011fa859bf4f7d4872.bundle",
+            "FileHash": "5bbb0a82a44cc4011fa859bf4f7d4872",
+            "FileCRC": "4d0b5d60",
+            "FileSize": 1409472,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_scenes.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_map1.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Scenes/Map1.unity"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle",
+            "FileName": "95ce48eecfe753e4ad9cca56f8aa29ba.bundle",
+            "FileHash": "95ce48eecfe753e4ad9cca56f8aa29ba",
+            "FileCRC": "75b2038f",
+            "FileSize": 23273,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_scenes.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_map2.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Scenes/Map2.unity"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uihelp.bundle",
+            "FileName": "9ea209b83943c5c2d5ee5b9ae2de6539.bundle",
+            "FileHash": "9ea209b83943c5c2d5ee5b9ae2de6539",
+            "FileCRC": "36463c22",
+            "FileSize": 4758,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.statesync/Bundles/UI/UIHelp.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilobby.bundle",
+            "FileName": "69c1783a114e5486f10619eb3ddef458.bundle",
+            "FileHash": "69c1783a114e5486f10619eb3ddef458",
+            "FileCRC": "20d85988",
+            "FileSize": 6699,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.statesync/Bundles/UI/UILobby.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilogin.bundle",
+            "FileName": "06954a581dee7437db70c72893dc509a.bundle",
+            "FileHash": "06954a581dee7437db70c72893dc509a",
+            "FileCRC": "798ecf80",
+            "FileSize": 8775,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.statesync/Bundles/UI/UILogin.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
+            "FileName": "d08c429e8c02b7cb987770ac0513ce79.bundle",
+            "FileHash": "d08c429e8c02b7cb987770ac0513ce79",
+            "FileCRC": "cacbf79f",
+            "FileSize": 2555,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Bundles/Unit/Unit.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuigm_assets_gameres_yiui_gm_prefabs.bundle",
+            "FileName": "1a894c059a83b0280cf4dde174668d33.bundle",
+            "FileHash": "1a894c059a83b0280cf4dde174668d33",
+            "FileCRC": "ad89df00",
+            "FileSize": 30128,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMCommandItem.prefab",
+                "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMPanel.prefab",
+                "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMParamItem.prefab",
+                "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMTypeItem.prefab",
+                "Packages/cn.etetet.yiuigm/Assets/GameRes/YIUI/GM/Prefabs/GMView.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_yiui_reddot_prefabs.bundle",
+            "FileName": "87d52248be78aa90db1b338393e9a5e8.bundle",
+            "FileHash": "87d52248be78aa90db1b338393e9a5e8",
+            "FileCRC": "c3ca6243",
+            "FileSize": 42050,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotDataItem.prefab",
+                "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotPanel.prefab",
+                "Packages/cn.etetet.yiuireddot/Assets/GameRes/YIUI/RedDot/Prefabs/RedDotStackItem.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuireddot_assets_gameres_reddot.bundle",
+            "FileName": "cfe08152fc6b465a75179682f1831baf.bundle",
+            "FileHash": "cfe08152fc6b465a75179682f1831baf",
+            "FileCRC": "e8ea9f05",
+            "FileSize": 3171,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuireddot/Assets/GameRes/RedDot/RedDotConfigAsset.asset",
+                "Packages/cn.etetet.yiuireddot/Assets/GameRes/RedDot/RedDotKeyAsset.asset"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_animation.bundle",
+            "FileName": "60aa8210ed8bc8f9d12ec716abc1a74b.bundle",
+            "FileHash": "60aa8210ed8bc8f9d12ec716abc1a74b",
+            "FileCRC": "f5e3a8b6",
+            "FileSize": 6185,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Animation/TipsTextAnimation_01.anim"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_prefabs.bundle",
+            "FileName": "3410040006017c778a78bf6ef4bdfda8.bundle",
+            "FileHash": "3410040006017c778a78bf6ef4bdfda8",
+            "FileCRC": "9876ccbc",
+            "FileSize": 12315,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuitips_assets_gameres_yiui_tips_animation.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsMessageView.prefab",
+                "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsPanel.prefab",
+                "Packages/cn.etetet.yiuitips/Assets/GameRes/YIUI/Tips/Prefabs/TipsTextView.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuilocalization_assets_gameres_i2localization.bundle",
+            "FileName": "2fcaf5831e9d7a4c27f119033c0ec046.bundle",
+            "FileHash": "2fcaf5831e9d7a4c27f119033c0ec046",
+            "FileCRC": "650fa80c",
+            "FileSize": 1382,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuilocalization/Assets/GameRes/I2Localization/I2_Chinese.csv",
+                "Packages/cn.etetet.yiuilocalization/Assets/GameRes/I2Localization/I2_English.csv"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_yiui.bundle",
+            "FileName": "8d79fa05ab6694e8a0df5fed7b8fd6bf.bundle",
+            "FileHash": "8d79fa05ab6694e8a0df5fed7b8fd6bf",
+            "FileCRC": "6e9d8b35",
+            "FileSize": 2287,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/YIUI/YIUIConstAsset.txt"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model.bundle",
+            "FileName": "b5668dcfae9ec3177204440af0914dd8.bundle",
+            "FileHash": "b5668dcfae9ec3177204440af0914dd8",
+            "FileCRC": "fac3318c",
+            "FileSize": 9929,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/DisplayDemoModel.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_prefabs.bundle",
+            "FileName": "8532db7471df62aa83e7727102f837ca.bundle",
+            "FileHash": "8532db7471df62aa83e7727102f837ca",
+            "FileCRC": "e658db26",
+            "FileSize": 11553,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Prefabs/ModelDisplayDemoView.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuiloopscrollrectasync_assets_gameres_yiui_loopscrollrectdemo_prefabs.bundle",
+            "FileName": "42f777b5ed598a3900d8eb0787804c5b.bundle",
+            "FileHash": "42f777b5ed598a3900d8eb0787804c5b",
+            "FileCRC": "47b56f54",
+            "FileSize": 16163,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollHorizontalView.prefab",
+                "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollRectDemoItem.prefab",
+                "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollRectDemoPanel.prefab",
+                "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollVerticalGroupView.prefab",
+                "Packages/cn.etetet.yiuiloopscrollrectasync/Assets/GameRes/YIUI/LoopScrollRectDemo/Prefabs/LoopScrollVerticalView.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_close.bundle",
+            "FileName": "75e15fdff015296087dc6718a1f1a763.bundle",
+            "FileHash": "75e15fdff015296087dc6718a1f1a763",
+            "FileCRC": "55f58bcc",
+            "FileSize": 9029,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_Gray.prefab",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIClose_White.prefab",
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Close/YIUIIClose_Black.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuiframework_assets_gameres_yiui_yiui_prefabs_common.bundle",
+            "FileName": "f4276ec86158eb226c83ac3c92833368.bundle",
+            "FileHash": "f4276ec86158eb226c83ac3c92833368",
+            "FileCRC": "e9e520d6",
+            "FileSize": 5420,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuiframework/Assets/GameRes/YIUI/YIUI/Prefabs/Common/YIUICloseCommon.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuistatesync_prefabs.bundle",
+            "FileName": "e98498cfd9b9d297624a903ff7109b89.bundle",
+            "FileHash": "e98498cfd9b9d297624a903ff7109b89",
+            "FileCRC": "26a51fb8",
+            "FileSize": 6392,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuistatesync/Prefabs/YIUIRoot.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_common_prefabs.bundle",
+            "FileName": "e4a551c002bafd1e960ab8395b893464.bundle",
+            "FileHash": "e4a551c002bafd1e960ab8395b893464",
+            "FileCRC": "5efa0bac",
+            "FileSize": 8474,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_iconmisc.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoClose_Black.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHome.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Common/Prefabs/YIUIDemoHomeCommon.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_equipment_prefabs.bundle",
+            "FileName": "66691de83cec37f792ac22fed4b24dea.bundle",
+            "FileHash": "66691de83cec37f792ac22fed4b24dea",
+            "FileCRC": "208de26e",
+            "FileSize": 61552,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_fonts.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_button.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_frame.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_icon_equipicons_noshadow_original.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_iconmisc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_slider.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_ui_etc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_background.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_character.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_image.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Equipment/Prefabs/EquipmentPanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_hero_prefabs.bundle",
+            "FileName": "8c9e6c8c4fde12f93a06b06ff717154f.bundle",
+            "FileHash": "8c9e6c8c4fde12f93a06b06ff717154f",
+            "FileCRC": "7f77af8a",
+            "FileSize": 55845,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_fonts.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_button.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_frame.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_icon_equipicons_noshadow_original.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_icon_itemicons_noshadow_original.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_iconmisc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_popup.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_slider.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_ui_etc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_background.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_character.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_image.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Hero/Prefabs/Equipment1View.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Hero/Prefabs/Equipment2View.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Hero/Prefabs/Equipment3View.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Hero/Prefabs/HeroPanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_lobby_prefabs.bundle",
+            "FileName": "0ad57cf3ec3feda08b478d86100311ec.bundle",
+            "FileHash": "0ad57cf3ec3feda08b478d86100311ec",
+            "FileCRC": "7fbdbcdb",
+            "FileSize": 38462,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_fonts.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_materials.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_textures.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_frame.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_label-title.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_background.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_image.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Lobby/Prefabs/LobbyPanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_login_prefabs.bundle",
+            "FileName": "e59cce704d8d1ee27a67aa0ba756381a.bundle",
+            "FileHash": "e59cce704d8d1ee27a67aa0ba756381a",
+            "FileCRC": "a1e93d3a",
+            "FileSize": 22398,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_fonts.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_button.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_popup.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_ui_etc.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Login/Prefabs/LoginPanel.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Login/Prefabs/LoginSignUpView.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Login/Prefabs/LoginView.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_main_prefabs.bundle",
+            "FileName": "49c4bd7725d2dbdc13a9e149b7a76665.bundle",
+            "FileHash": "49c4bd7725d2dbdc13a9e149b7a76665",
+            "FileCRC": "a71bc57d",
+            "FileSize": 63850,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_fonts.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_materials.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_textures.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_button.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_frame.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_icon_itemicons_noshadow_original.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_iconmisc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_label-title.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_slider.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_ui_etc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_background.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Main/Prefabs/MainPanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_settings_prefabs.bundle",
+            "FileName": "6afd7cbd03655cb23ee03454f7363419.bundle",
+            "FileHash": "6afd7cbd03655cb23ee03454f7363419",
+            "FileCRC": "b3ad53b7",
+            "FileSize": 42735,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_fonts.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_button.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_frame.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_icon_flag.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_iconmisc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_popup.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_slider.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_ui_etc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_background.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_image.bundle",
+                "defaultpackage_share_assets_textmesh pro_fonts.bundle",
+                "defaultpackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Settings/Prefabs/LanguageView.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Settings/Prefabs/SettingsPanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_prefabs.bundle",
+            "FileName": "26544f02deaf6baea3ffdf535ca210a5.bundle",
+            "FileHash": "26544f02deaf6baea3ffdf535ca210a5",
+            "FileCRC": "88de0737",
+            "FileSize": 118508,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_fonts.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_materials.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_textures.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_button.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_frame.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_iconmisc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_label-title.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_ui_etc.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_background.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_image.bundle",
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_shopitem.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopChestItem.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopChestView.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopGemView.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopGoldView.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopList.prefab",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Prefabs/ShopPanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_packages_cn_etetet_yiuidemo_assets_gameres_yiui_shop_sprites_atlas1.bundle",
+            "FileName": "bcabee8d30e117da87dfcc11b245ba58.bundle",
+            "FileHash": "bcabee8d30e117da87dfcc11b245ba58",
+            "FileCRC": "a172c6f1",
+            "FileSize": 1491541,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_01.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_02.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_03.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_04.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/Chest_Close_m_05.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/icon_language_flag_Chinese.png",
+                "Packages/cn.etetet.yiuidemo/Assets/GameRes/YIUI/Shop/Sprites/Atlas1/icon_language_flag_English.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_scenes_map1.bundle",
+            "FileName": "e0d49bafb632bd2bbe35beec7d25363d.bundle",
+            "FileHash": "e0d49bafb632bd2bbe35beec7d25363d",
+            "FileCRC": "db5ead1e",
+            "FileSize": 1999620,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Scenes/Map1/Lightmap-0_comp_light.exr",
+                "Packages/cn.etetet.demores/Scenes/Map1/ReflectionProbe-0.exr",
+                "Packages/cn.etetet.demores/Scenes/Map1/Lightmap-0_comp_dir.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_scenes.bundle",
+            "FileName": "274e49feab8f8e54077e58aba24e6157.bundle",
+            "FileHash": "274e49feab8f8e54077e58aba24e6157",
+            "FileCRC": "42cdc0f6",
+            "FileSize": 1436,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Scenes/Map1Settings.lighting",
+                "Packages/cn.etetet.demores/Scenes/Map2Settings.lighting"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle",
+            "FileName": "a56a45ecdd09acbf2cc93326088a671b.bundle",
+            "FileHash": "a56a45ecdd09acbf2cc93326088a671b",
+            "FileCRC": "1ac94f9e",
+            "FileSize": 3029,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Scenes/Mat/Urp.mat"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_unityshaders.bundle",
+            "FileName": "d5f348c089edd08c1f3dafab436e5520.bundle",
+            "FileHash": "d5f348c089edd08c1f3dafab436e5520",
+            "FileCRC": "0e579d9a",
+            "FileSize": 191055,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader",
+                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/Extensions/UIParticle/UIAdditive.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_scenes_map2.bundle",
+            "FileName": "f6368956efeda15c816e7fbd50637e3d.bundle",
+            "FileHash": "f6368956efeda15c816e7fbd50637e3d",
+            "FileCRC": "e58d244d",
+            "FileSize": 635183,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Scenes/Map2/ReflectionProbe-0.exr",
+                "Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_dir.png",
+                "Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_light.exr"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle",
+            "FileName": "bbe9f9ed2ed352dba49434283c619852.bundle",
+            "FileHash": "bbe9f9ed2ed352dba49434283c619852",
+            "FileCRC": "96c585a5",
+            "FileSize": 10577,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Unit/Skeleton/SkeletonController.controller",
+                "Packages/cn.etetet.demores/Unit/Skeleton/Skeleton.prefab"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+            "FileName": "e88ad501a5fa68353fe2afa2d276a981.bundle",
+            "FileHash": "e88ad501a5fa68353fe2afa2d276a981",
+            "FileCRC": "f6b772fc",
+            "FileSize": 607663,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Unit/Skeleton/Texture/Skeleton_D.tif"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle",
+            "FileName": "22cfc08f9fbe9d77b2863f68ae3ccf40.bundle",
+            "FileHash": "22cfc08f9fbe9d77b2863f68ae3ccf40",
+            "FileCRC": "19b8eafd",
+            "FileSize": 199683,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Skeleton@Idle.FBX",
+                "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Skeleton@Run.FBX"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle",
+            "FileName": "8a83ccd0c8f385488ca4e7a02597edca.bundle",
+            "FileHash": "8a83ccd0c8f385488ca4e7a02597edca",
+            "FileCRC": "97e4b0dd",
+            "FileSize": 2868,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.demores/Unit/Skeleton/Ani/Materials/skeleton_D.mat"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+            "FileName": "9d37d559a7c322b7dc0501703dd5e2a6.bundle",
+            "FileHash": "9d37d559a7c322b7dc0501703dd5e2a6",
+            "FileCRC": "d804350b",
+            "FileSize": 3083,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Ani/Materials/skeleton_D.mat"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character.bundle",
+            "FileName": "bf62a3392ec4436a6c16d0273b89ee96.bundle",
+            "FileHash": "bf62a3392ec4436a6c16d0273b89ee96",
+            "FileCRC": "acbb4293",
+            "FileSize": 64735,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/SkeletonController.controller",
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/Skeleton@Skin.FBX"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani.bundle",
+            "FileName": "429785325ea48023cecc04511441f613.bundle",
+            "FileHash": "429785325ea48023cecc04511441f613",
+            "FileCRC": "00875dd2",
+            "FileSize": 116652,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_ani_materials.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Ani/Skeleton@Idle.FBX"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_cn_etetet_yiui3ddisplay_assets_gameres_yiui_modeldisplay_model_character_materials.bundle",
+            "FileName": "8041c1f6db791e3ad793db2e17b0fc14.bundle",
+            "FileHash": "8041c1f6db791e3ad793db2e17b0fc14",
+            "FileCRC": "309bdc65",
+            "FileSize": 2951,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/cn.etetet.yiui3ddisplay/Assets/GameRes/YIUI/ModelDisplay/Model/Character/Materials/skeleton_D.mat"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_iconmisc.bundle",
+            "FileName": "38a90c5233773a635065d056ac36724c.bundle",
+            "FileHash": "38a90c5233773a635065d056ac36724c",
+            "FileCRC": "376932c6",
+            "FileSize": 194302,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Arrow_Back.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Home.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Ring_Disable.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_5.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Lock.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Boots.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Boots_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Armor.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Sword.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Shield.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Ring_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_8.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Helmet.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Add_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/icon_color_delete.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Weapon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_6.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_9.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Boots_Disable.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Shield_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Sword_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Equip_Glove.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Sword_Disable.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Stat_7.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/MenuIcon_Shield_Disable.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Coins_s_Gold.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Wizard.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Darkmage.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Priest.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Assassin.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Gladiator.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Archer.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Sorcerer.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Paladin.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Star_Grade_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Warrior.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Role_Ranger.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Sword_01.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_02_AdFree_Shadow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Lock_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Dungeon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Chest.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Scroll.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Community.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_02_Piggy_Shadow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Ranking.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_BossDungeon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Gear_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Sword_03.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Calendar.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_01_Friend.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/IconSet_Menu_02_Gems_Shadow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Check_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Sound_Off.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Bgm_Off.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Notification.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Bgm_On.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Coins_m.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Setting_Sound_On.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Sns_Apple_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Sns_Facebook_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Vibration.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Tv_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/IconMisc/Icon_Gem_01.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_frame.bundle",
+            "FileName": "85b2a9e5f507ec45d4c99ab82be3551c.bundle",
+            "FileHash": "85b2a9e5f507ec45d4c99ab82be3551c",
+            "FileCRC": "0e6ae0ec",
+            "FileSize": 85271,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Focus_Demo_Check.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Green.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Yellow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Square_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Purple.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Square_InnerBorder.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Square_02_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineFrame_03.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Orange.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Focus_Demo_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Square_02_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/TabMenu_02_Focus_Yellow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Border_Red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Hexagon_33.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/ItemFrame_01_Bottom.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Circle_Single_Focus.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/SlotFrame_Circle_Single_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineFrame_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BorderFrame_Circle.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineTextFrame_03_Line.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineTextFrame_03_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BorderFrame_Square01_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Gradient.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BorderFrame_Square01_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/LineFrame_04.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Diamond_80_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/BasicFrame_Diamond_80_Glow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_Bg_Single.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_FocusFrontGradient.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/StageFrame_06_FocusBackGlow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Frame/TabMenu_03_Yellow.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_icon_equipicons_noshadow_original.bundle",
+            "FileName": "8f5ff55b24fd16be4397ed14abc76764.bundle",
+            "FileHash": "8f5ff55b24fd16be4397ed14abc76764",
+            "FileCRC": "d74349d7",
+            "FileSize": 459769,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_tooth_red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_blue_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_red_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_ring_gold.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_eye_blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_red_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_hammer_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_ring_blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_shield_blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_blue_3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_shield_wood.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_fish.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_tooth_posion.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_hammer_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_leaf.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_gem_red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_hammer_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_blue_0.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_cyristal.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_tooth_hard.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_blue_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_bracelet.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_potion_red_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_stone.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_tooth_dragon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_EquipIcons/NoShadow/Original/equip_icon_axe_4.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_packages_com_unity_ugui_editor resources_gizmos.bundle",
+            "FileName": "270a31cee0af4933281cd3dc14340af5.bundle",
+            "FileHash": "270a31cee0af4933281cd3dc14340af5",
+            "FileCRC": "1c1eff6a",
+            "FileSize": 6853,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Input Field Icon.psd"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_ui_etc.bundle",
+            "FileName": "53da1576204a7a23a76c892f05b64b17.bundle",
+            "FileHash": "53da1576204a7a23a76c892f05b64b17",
+            "FileCRC": "00bd8aec",
+            "FileSize": 41163,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Energy.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Dot_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Gem.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Coins.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Dot_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Button_Add.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Icon_Key.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Resource_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Icon_Mail.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Icon_Lock.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Icon_User.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/InputField_Bg_Single_Activity.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Toggle_Check_Single_On.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Toggle_Check_Single_Off.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Diamond_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Alert_Diamond_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Handle_Off.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Bg_White_InnerBorder.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Bg_White_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Bg_White_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/UI_Etc/Switch_Handle_On.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_slider.bundle",
+            "FileName": "27f3c04afbbc82792b71497813c48e04.bundle",
+            "FileHash": "27f3c04afbbc82792b71497813c48e04",
+            "FileCRC": "6b1ed77c",
+            "FileSize": 20151,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Basic_Rectangle_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Basic_Tapered_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Slider_Fill_Light.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Badge_l_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Slider_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Badge_l_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Slider_BgLight.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Level_Slider_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Handle_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Handle_Handle.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Handle_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Handle_Fill.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_background.bundle",
+            "FileName": "d3276ee884e177db7d977bb8f4ee9c69.bundle",
+            "FileHash": "d3276ee884e177db7d977bb8f4ee9c69",
+            "FileCRC": "3efe8b18",
+            "FileSize": 1308478,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/Background_Gradient_Panel_01.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/BackGround_Sample_04_Character_3840.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/BackGround_Sample_01_Title_1920.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Background/BackGround_Sample_03_Home_1920.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_fonts.bundle",
+            "FileName": "bc58102a8b5c603db5b158dfce43fe8a.bundle",
+            "FileHash": "bc58102a8b5c603db5b158dfce43fe8a",
+            "FileCRC": "fdededfb",
+            "FileSize": 436472,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 40 SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 28 SDF.asset",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 40 SDF Atlas.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 28 SDF Atlas.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_character.bundle",
+            "FileName": "153f9e91d7b0808b1acccfb5f6e8741f.bundle",
+            "FileHash": "153f9e91d7b0808b1acccfb5f6e8741f",
+            "FileCRC": "ec53972f",
+            "FileSize": 437960,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Character/Character_Platform.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Character/Character_BackGlow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Character/Character_Sample_01_s.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Character/Character_Sample_01_m.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_image.bundle",
+            "FileName": "6161d5837ec8a5fb18c1c02861e49390.bundle",
+            "FileHash": "6161d5837ec8a5fb18c1c02861e49390",
+            "FileCRC": "e9534211",
+            "FileSize": 62249,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Oval_02.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Sample_TitleTextt_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Sample_TitleTextt_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_Image/Image_Glow_Circle_02.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_button.bundle",
+            "FileName": "81010e922244f7b9561d115b9093ea66.bundle",
+            "FileHash": "81010e922244f7b9561d115b9093ea66",
+            "FileCRC": "01b630d4",
+            "FileSize": 48251,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Green.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Yellow.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Gray.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_02_Blue.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_05_Deco_Single_Yellow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_04_Gray.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Bluegray.Png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Button/Button_Rectangle_01_Convex_Blue.Png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_popup.bundle",
+            "FileName": "7a58815c93785e08b47ee27aa4d12c6e.bundle",
+            "FileHash": "7a58815c93785e08b47ee27aa4d12c6e",
+            "FileCRC": "aaaa5f4e",
+            "FileSize": 31251,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_Single_Deco.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_Single.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_02_White_DecoLine.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_ButtonIcon.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_Border.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Popup/Popup_01_Button.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_icon_itemicons_noshadow_original.bundle",
+            "FileName": "4581b47e0f2901443a446249d5b269d7.bundle",
+            "FileHash": "4581b47e0f2901443a446249d5b269d7",
+            "FileCRC": "ac1f2a6b",
+            "FileSize": 35049,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_key_bronze.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_house.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_flag_sword.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_equip_helmet_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_anvil.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_ItemIcons/NoShadow/Original/icon_bag.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_label-title.bundle",
+            "FileName": "35435a0c7ec3f94d8c499de1408a796a.bundle",
+            "FileHash": "35435a0c7ec3f94d8c499de1408a796a",
+            "FileCRC": "bf7d5952",
+            "FileSize": 23151,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Ribbon_03_Red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Label_Bubble.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Label_Tapered_Border_32_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Label_Flag_02_Shadow.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Label_Flag_02_Bg.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Flag_02_Red.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Label-Title/Title_Flag_02_Blue.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_materials.bundle",
+            "FileName": "1bd86cc59dad3dbbde663f1c35bebd61.bundle",
+            "FileHash": "1bd86cc59dad3dbbde663f1c35bebd61",
+            "FileCRC": "8081dbbd",
+            "FileSize": 3240,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow2.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_glow3.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_star2.mat",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Materials/fx_star1.mat"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_particles_textures.bundle",
+            "FileName": "20183fbedc832080f4e19706202f84ef.bundle",
+            "FileHash": "20183fbedc832080f4e19706202f84ef",
+            "FileCRC": "d24b4c4d",
+            "FileSize": 144553,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_glow3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_star2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Particles/Textures/fx_star1.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_component_icon_flag.bundle",
+            "FileName": "03894b30390a59e391511d299fa62aab.bundle",
+            "FileHash": "03894b30390a59e391511d299fa62aab",
+            "FileCRC": "4619c969",
+            "FileSize": 71999,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_swe.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_chn.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_twn.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_esp.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_idn.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_jpn.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_ind.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_kor.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_deu.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_tur.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_fra.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_eng.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_prt.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_tha.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Icon_Flag/icon_language_flag_rus.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
+            "FileName": "e79dd9b9a4a3378770a1769a2cc2029d.bundle",
+            "FileHash": "e79dd9b9a4a3378770a1769a2cc2029d",
+            "FileCRC": "788d9bfa",
+            "FileSize": 374093,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_share_assets_textmesh pro_fonts.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_textmesh pro_fonts.bundle",
+            "FileName": "5e13310116e6a767de86f667864a3155.bundle",
+            "FileHash": "5e13310116e6a767de86f667864a3155",
+            "FileCRC": "319e0a1d",
+            "FileSize": 227219,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_layer lab_gui pro-fantasyrpg_resourcesdata_sprites_demo_demo_shopitem.bundle",
+            "FileName": "2f8fc8412abf097736f64e1b42b5840e.bundle",
+            "FileHash": "2f8fc8412abf097736f64e1b42b5840e",
+            "FileCRC": "26ef8bcb",
+            "FileSize": 3012565,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_5.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_3.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_6.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Gem_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_1.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_4.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_2.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_6.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_5.png",
+                "Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Demo/Demo_ShopItem/ShopItem_Coin_3.png"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

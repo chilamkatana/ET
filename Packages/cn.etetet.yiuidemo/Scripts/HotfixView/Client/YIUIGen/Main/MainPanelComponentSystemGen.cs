@@ -45,6 +45,10 @@ namespace ET.Client
             self.u_EventGoldHandle = self.u_EventGold.Add(self,MainPanelComponent.OnEventGoldInvoke);
             self.u_EventHero = self.UIBase.EventTable.FindEvent<UITaskEventP0>("u_EventHero");
             self.u_EventHeroHandle = self.u_EventHero.Add(self,MainPanelComponent.OnEventHeroInvoke);
+            self.u_EventEquipment = self.UIBase.EventTable.FindEvent<UITaskEventP0>("u_EventEquipment");
+            self.u_EventEquipmentHandle = self.u_EventEquipment.Add(self,MainPanelComponent.OnEventEquipmentInvoke);
+            self.u_EventSettings = self.UIBase.EventTable.FindEvent<UITaskEventP0>("u_EventSettings");
+            self.u_EventSettingsHandle = self.u_EventSettings.Add(self,MainPanelComponent.OnEventSettingsInvoke);
 
         }
     }
