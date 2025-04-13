@@ -12,6 +12,6 @@ namespace ET.Client
     /// </summary>
     public partial class ShopChestItemComponent : Entity
     {
-
+		
     }
 }

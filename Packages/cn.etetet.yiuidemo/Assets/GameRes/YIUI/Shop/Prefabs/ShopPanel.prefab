@@ -6534,6 +6534,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: YIUIDemoClose_Black
       objectReference: {fileID: 0}
+    - target: {fileID: 2223667785882743547, guid: 9aa79b860e3396c46a9250c96ebfdf3b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2690883929456458717, guid: 9aa79b860e3396c46a9250c96ebfdf3b,
         type: 3}
       propertyPath: m_Pivot.x
