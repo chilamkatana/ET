@@ -18,7 +18,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [
-        "INITED",
         "IS_COMPILING || UNITY_EDITOR"
     ],
     "versionDefines": [],
