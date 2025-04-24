@@ -125,7 +125,7 @@
         {
             "BundleName": "defaultpackage_packages_cn_etetet_loader_bundles_code.bundle",
             "UnityCRC": 0,
-            "FileHash": "06230a499c5418b30c184c6a208ec7db",
+            "FileHash": "d98d09474f2efdf8de5ee4e0f5e4a7ac",
             "FileCRC": "00000000",
             "FileSize": 737896,
             "Encrypted": false,
@@ -135,7 +135,7 @@
         {
             "BundleName": "defaultpackage_packages_cn_etetet_excel_config_bytes_c.bundle",
             "UnityCRC": 0,
-            "FileHash": "538b517f30244dd347b7b6405ef30e3a",
+            "FileHash": "e329f8a2c46838385b8e39c01b9ad565",
             "FileCRC": "00000000",
             "FileSize": 659,
             "Encrypted": false,
@@ -145,9 +145,9 @@
         {
             "BundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle",
             "UnityCRC": 0,
-            "FileHash": "b10b3904227aca4b5959c7a9f4e6e992",
+            "FileHash": "e13644bf3eff18290298e2eac0bcfdf0",
             "FileCRC": "00000000",
-            "FileSize": 216922,
+            "FileSize": 225044,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -155,9 +155,9 @@
         {
             "BundleName": "defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle",
             "UnityCRC": 0,
-            "FileHash": "531241269929c21a0abc296c6fa798e8",
+            "FileHash": "7f1995b791ac771ffeab92790995c84a",
             "FileCRC": "00000000",
-            "FileSize": 70649,
+            "FileSize": 73309,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -165,9 +165,9 @@
         {
             "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uihelp.bundle",
             "UnityCRC": 0,
-            "FileHash": "4a5cf5d93e8f6156b772d3d45ee0f37c",
+            "FileHash": "777e9f070fd9c9c9f18d3378acc45d2f",
             "FileCRC": "00000000",
-            "FileSize": 4966,
+            "FileSize": 5144,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -175,9 +175,9 @@
         {
             "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilobby.bundle",
             "UnityCRC": 0,
-            "FileHash": "76d943e1cef58c0c0ea1124eb8c010d0",
+            "FileHash": "d3e1c345f634ec36b879d9d657913c9a",
             "FileCRC": "00000000",
-            "FileSize": 11002,
+            "FileSize": 11376,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -185,9 +185,9 @@
         {
             "BundleName": "defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilogin.bundle",
             "UnityCRC": 0,
-            "FileHash": "cab16421bac74ecd2b5a2015be9fc762",
+            "FileHash": "719a180652973748528d44c3627548fb",
             "FileCRC": "00000000",
-            "FileSize": 28796,
+            "FileSize": 29774,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -195,9 +195,9 @@
         {
             "BundleName": "defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle",
             "UnityCRC": 0,
-            "FileHash": "41bc02e0379a9af82754186cddec4324",
+            "FileHash": "173ddc770c289cbdeda2162b27db0006",
             "FileCRC": "00000000",
-            "FileSize": 1430,
+            "FileSize": 1480,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
