@@ -17,14 +17,8 @@ MonoBehaviour:
     Version: 
   - Name: com.etetet.init
     Version: 
-  - Name: cn.etetet.yooassets
-    Version: 2.1.4
-  - Name: cn.etetet.memorypack
-    Version: 1.10.0
   - Name: cn.etetet.mathematics
     Version: 0.0.2
-  - Name: cn.etetet.hybridclr
-    Version: 6.7.1
   - Name: com.unity.modules.wind
     Version: 1.0.0
   - Name: com.unity.modules.video
@@ -94,11 +88,13 @@ MonoBehaviour:
   - Name: com.unity.ide.vscode
     Version: 1.2.5
   - Name: com.unity.ide.visualstudio
-    Version: 2.0.22
+    Version: 2.0.23
   - Name: com.unity.ide.rider
-    Version: 3.0.34
+    Version: 3.0.36
   - Name: com.unity.ai.navigation
-    Version: 2.0.6
+    Version: 2.0.7
+  - Name: cn.etetet.yooassets
+    Version: 2.3.6
   - Name: cn.etetet.watcher
     Version: 3.0.0
   - Name: cn.etetet.unit
@@ -106,11 +102,11 @@ MonoBehaviour:
   - Name: cn.etetet.ui
     Version: 3.0.0
   - Name: cn.etetet.statesync
-    Version: 3.0.4
+    Version: 3.0.11
   - Name: cn.etetet.startconfig
     Version: 3.0.0
   - Name: cn.etetet.sourcegenerator
-    Version: 3.0.0
+    Version: 3.0.1
   - Name: cn.etetet.router
     Version: 3.0.0
   - Name: cn.etetet.referencecollector
@@ -118,19 +114,23 @@ MonoBehaviour:
   - Name: cn.etetet.recast
     Version: 3.0.0
   - Name: cn.etetet.proto
-    Version: 3.0.0
+    Version: 3.0.2
   - Name: cn.etetet.packagemanager
-    Version: 1.0.2
+    Version: 1.0.5
   - Name: cn.etetet.numeric
     Version: 3.0.0
   - Name: cn.etetet.netinner
     Version: 3.0.0
   - Name: cn.etetet.move
     Version: 3.0.0
+  - Name: cn.etetet.memorypack
+    Version: 1.10.1
   - Name: cn.etetet.login
     Version: 3.0.0
   - Name: cn.etetet.loader
-    Version: 3.0.0
+    Version: 3.0.1
+  - Name: cn.etetet.hybridclr
+    Version: 7.8.1
   - Name: cn.etetet.http
     Version: 3.0.0
   - Name: cn.etetet.excel
@@ -138,7 +138,7 @@ MonoBehaviour:
   - Name: cn.etetet.demores
     Version: 3.0.0
   - Name: cn.etetet.core
-    Version: 3.0.2
+    Version: 3.0.3
   - Name: cn.etetet.console
     Version: 3.0.0
   - Name: cn.etetet.aoi
@@ -170,5 +170,5 @@ MonoBehaviour:
   - Name: cn.etetet.yiuistatesync
     Version: 1.0.0
   BanPackageInfo: []
-  LastUpdateTime: 1739932257
+  LastUpdateTime: 1745447811
   UpdateInterval: 3600
