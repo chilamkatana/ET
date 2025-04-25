@@ -206,6 +206,13 @@
         "cn.etetet.yiuiframework": "1.1.2"
       }
     },
+    "cn.etetet.yiuicodeanalysis": {
+      "version": "0.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://npm.pkg.github.com/@ET-Packages"
+    },
     "cn.etetet.yiuieffect": {
       "version": "file:cn.etetet.yiuieffect",
       "depth": 0,
@@ -262,6 +269,20 @@
     },
     "cn.etetet.yiuilubangen": {
       "version": "file:cn.etetet.yiuilubangen",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuinumeric": {
+      "version": "file:cn.etetet.yiuinumeric",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.yiuicodeanalysis": "0.0.1"
+      }
+    },
+    "cn.etetet.yiuinumericconfig": {
+      "version": "file:cn.etetet.yiuinumericconfig",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
