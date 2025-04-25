@@ -1,29 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Threading;
 
 namespace ET
 {
-    public class SynchronizationContextKeeper
-    { 
-#if UNITY_EDITOR
-        [StaticField]
-        private static SynchronizationContext UX;
-
-        [UnityEditor.InitializeOnLoadMethod]
-        static void Init()
-        {
-            UX = SynchronizationContext.Current;
-        } 
-#endif 
-        public static void BackToUX()
-        { 
-#if UNITY_EDITOR 
-            SynchronizationContext.SetSynchronizationContext(UX); 
-#endif
-        }
-    }
-    
     public class World: IDisposable
     {
         [StaticField]
@@ -66,7 +45,6 @@ namespace ET
                     kv.Value.Dispose();
                 }
             }
-            SynchronizationContextKeeper.BackToUX();
         }
 
         public T AddSingleton<T>() where T : ASingleton, ISingletonAwake, new()

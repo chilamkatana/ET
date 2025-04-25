@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.yiuilocalization",
   "displayName": "ET.YIUI.Localization",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "unity": "2022.3",
   "category": "UI/YIUI",
   "description": "YIUI 多语言 >>> 文档: https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh",
@@ -15,10 +15,10 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.yiuiframework": "1.0.0"
+    "cn.etetet.yiuiframework": "1.1.2"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
   },
-  "_fingerprint": "244fa7be37e8cda76f2094b1a9370eb6e50f5ae4"
+  "_fingerprint": "a64b12fa98668bbbf45a667350836f9b51aa7078"
 }

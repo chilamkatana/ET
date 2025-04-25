@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.sourcegenerator",
   "displayName": "ET.SourceGenerator",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "unity": "2022.3",
   "description": "et框架的分析器跟代码生成器",
   "author": {
@@ -16,5 +16,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
   },
-  "_fingerprint": "261735d0f8b1389c3ada6a8eebb6755b803e2f0c"
+  "_fingerprint": "13fcc491cd711a4f483e26666d6096fa6e148af3"
 }
