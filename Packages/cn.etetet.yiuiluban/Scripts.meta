@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Packages/cn.etetet.yiuiluban/Scripts.meta
 guid: c83c37418e088c049a0bb5bf199b73d4
+========
+guid: eedff3a7fcb6b024bb5f487bdfa254e7
+>>>>>>>> c767f3667f5c48b70c1610e5f8662e8482805c63:Packages/cn.etetet.yiuieffect/Editor/UIEffect.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
