@@ -8,7 +8,7 @@
     "BuildPipeline": "EditorSimulateBuildPipeline",
     "PackageName": "DefaultPackage",
     "PackageVersion": "Simulate",
-    "PackageNote": "2025/4/25 11:30:26",
+    "PackageNote": "2025/4/25 14:46:12",
     "AssetList": [
         {
             "Address": "YIUIConstAsset",
@@ -283,6 +283,38 @@
             "DependBundleIDs": []
         },
         {
+            "Address": "NumericLocalizationConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/Config/Binary/Client/NumericLocalizationConfigCategory.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "NumericValueAffectConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/Config/Binary/Client/NumericValueAffectConfigCategory.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "NumericValueCheckConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/Config/Binary/Client/NumericValueCheckConfigCategory.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "NumericValueLimitConfigCategory",
+            "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/Config/Binary/Client/NumericValueLimitConfigCategory.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
             "Address": "UnitConfigCategory",
             "AssetPath": "Packages/cn.etetet.yiuilubangen/Assets/Config/Binary/Client/UnitConfigCategory.bytes",
             "AssetGUID": "",
@@ -441,7 +473,7 @@
             "UnityCRC": 0,
             "FileHash": "5f613c1fdff5176a9e2df2e384ca7d95",
             "FileCRC": "00000000",
-            "FileSize": 1454328,
+            "FileSize": 1451024,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -551,7 +583,7 @@
             "UnityCRC": 0,
             "FileHash": "8f9d6f96098a48e7583bc07527bca7f9",
             "FileCRC": "00000000",
-            "FileSize": 116,
+            "FileSize": 884,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []

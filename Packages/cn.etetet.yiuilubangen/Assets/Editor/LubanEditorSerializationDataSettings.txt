@@ -1,0 +1,216 @@
+{
+    "$id": 0,
+    "$type": "0|YIUILuban.Editor.LubanEditorSerializationData, ET.YIUI.LubanTools.Editor",
+    "RootShowAllConfig": true,
+    "m_MinWindowSize": {
+        "$type": "1|UnityEngine.Vector2, UnityEngine.CoreModule",
+        1000,
+        600
+    },
+    "InvalidFileNameRegex": "^[\\.\\\\\\\\/~#\\$%]",
+    "LubanEditorPackageSettings": {
+        "$id": 1,
+        "$type": "2|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[YIUILuban.Editor.LubanPackageEditorData, ET.YIUI.LubanTools.Editor]], mscorlib",
+        "comparer": {
+            "$id": 2,
+            "$type": "3|System.Collections.Generic.GenericEqualityComparer`1[[System.String, mscorlib]], mscorlib"
+        },
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$k": "yiuilubangen",
+                "$v": {
+                    "$id": 3,
+                    "$type": "4|YIUILuban.Editor.LubanPackageEditorData, ET.YIUI.LubanTools.Editor",
+                    "PackageName": "yiuilubangen",
+                    "Alias": null,
+                    "Desc": null
+                }
+            },
+            {
+                "$k": "yiuinumericconfig",
+                "$v": {
+                    "$id": 4,
+                    "$type": 4,
+                    "PackageName": "yiuinumericconfig",
+                    "Alias": null,
+                    "Desc": null
+                }
+            }
+        ]
+    },
+    "LubanEditorConfigSettings": {
+        "$id": 5,
+        "$type": "5|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[YIUILuban.Editor.LubanConfigEditorData, ET.YIUI.LubanTools.Editor]], mscorlib]], mscorlib",
+        "comparer": $iref:2,
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$k": "yiuilubangen",
+                "$v": {
+                    "$id": 6,
+                    "$type": "6|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[YIUILuban.Editor.LubanConfigEditorData, ET.YIUI.LubanTools.Editor]], mscorlib",
+                    "comparer": $iref:2,
+                    "$rlength": 6,
+                    "$rcontent": [
+                        {
+                            "$k": "AI.xlsx",
+                            "$v": {
+                                "$id": 7,
+                                "$type": "7|YIUILuban.Editor.LubanConfigEditorData, ET.YIUI.LubanTools.Editor",
+                                "Name": "AI.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuilubangen/Assets/Editor/Luban\\Datas\\AI.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuilubangen"
+                            }
+                        },
+                        {
+                            "$k": "Unit.xlsx",
+                            "$v": {
+                                "$id": 8,
+                                "$type": 7,
+                                "Name": "Unit.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuilubangen/Assets/Editor/Luban\\Datas\\Unit.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuilubangen"
+                            }
+                        },
+                        {
+                            "$k": "StartMachine.xlsx",
+                            "$v": {
+                                "$id": 9,
+                                "$type": 7,
+                                "Name": "StartMachine.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuilubangen/Assets/Editor/Luban\\StartConfig\\Release\\Datas\\StartMachine.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuilubangen"
+                            }
+                        },
+                        {
+                            "$k": "StartProcess.xlsx",
+                            "$v": {
+                                "$id": 10,
+                                "$type": 7,
+                                "Name": "StartProcess.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuilubangen/Assets/Editor/Luban\\StartConfig\\Release\\Datas\\StartProcess.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuilubangen"
+                            }
+                        },
+                        {
+                            "$k": "StartScene.xlsx",
+                            "$v": {
+                                "$id": 11,
+                                "$type": 7,
+                                "Name": "StartScene.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuilubangen/Assets/Editor/Luban\\StartConfig\\Release\\Datas\\StartScene.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuilubangen"
+                            }
+                        },
+                        {
+                            "$k": "StartZone.xlsx",
+                            "$v": {
+                                "$id": 12,
+                                "$type": 7,
+                                "Name": "StartZone.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuilubangen/Assets/Editor/Luban\\StartConfig\\Release\\Datas\\StartZone.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuilubangen"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "$k": "yiuinumericconfig",
+                "$v": {
+                    "$id": 13,
+                    "$type": 6,
+                    "comparer": $iref:2,
+                    "$rlength": 6,
+                    "$rcontent": [
+                        {
+                            "$k": "NumericLocalization.xlsx",
+                            "$v": {
+                                "$id": 14,
+                                "$type": 7,
+                                "Name": "NumericLocalization.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuinumericconfig/Assets/Editor/Luban\\Datas\\NumericLocalization.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuinumericconfig"
+                            }
+                        },
+                        {
+                            "$k": "NumericValueAffect.json",
+                            "$v": {
+                                "$id": 15,
+                                "$type": 7,
+                                "Name": "NumericValueAffect.json",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuinumericconfig/Assets/Editor/Luban\\Datas\\NumericValueAffect.json",
+                                "Desc": null,
+                                "PackageName": "yiuinumericconfig"
+                            }
+                        },
+                        {
+                            "$k": "NumericValueCheck.json",
+                            "$v": {
+                                "$id": 16,
+                                "$type": 7,
+                                "Name": "NumericValueCheck.json",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuinumericconfig/Assets/Editor/Luban\\Datas\\NumericValueCheck.json",
+                                "Desc": null,
+                                "PackageName": "yiuinumericconfig"
+                            }
+                        },
+                        {
+                            "$k": "NumericValueLimit.xlsx",
+                            "$v": {
+                                "$id": 17,
+                                "$type": 7,
+                                "Name": "NumericValueLimit.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuinumericconfig/Assets/Editor/Luban\\Datas\\NumericValueLimit.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuinumericconfig"
+                            }
+                        },
+                        {
+                            "$k": "NumericType.xlsx",
+                            "$v": {
+                                "$id": 18,
+                                "$type": 7,
+                                "Name": "NumericType.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuinumericconfig/Assets/Editor/Luban\\Other\\NumericType.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuinumericconfig"
+                            }
+                        },
+                        {
+                            "$k": "NumericValueAffect.xlsx",
+                            "$v": {
+                                "$id": 19,
+                                "$type": 7,
+                                "Name": "NumericValueAffect.xlsx",
+                                "Alias": null,
+                                "Path": "Packages/cn.etetet.yiuinumericconfig/Assets/Editor/Luban\\Other\\NumericValueAffect.xlsx",
+                                "Desc": null,
+                                "PackageName": "yiuinumericconfig"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

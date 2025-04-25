@@ -5,7 +5,7 @@
     "alias": "测试",
     "desc": "数值测试",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -14,7 +14,7 @@
     "alias": "临时1数据",
     "desc": "临时1数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -23,7 +23,7 @@
     "alias": "临时2数据",
     "desc": "临时2数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -32,7 +32,7 @@
     "alias": "临时3数据",
     "desc": "临时3数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -41,7 +41,7 @@
     "alias": "临时4数据",
     "desc": "临时4数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -50,7 +50,7 @@
     "alias": "临时5数据",
     "desc": "临时5数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -59,7 +59,7 @@
     "alias": "临时6数据",
     "desc": "临时6数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -68,7 +68,7 @@
     "alias": "临时7数据",
     "desc": "临时7数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -77,7 +77,7 @@
     "alias": "临时8数据",
     "desc": "临时8数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -86,7 +86,7 @@
     "alias": "临时9数据",
     "desc": "临时9数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {
@@ -95,7 +95,7 @@
     "alias": "临时10数据",
     "desc": "临时10数据",
     "not_grow": true,
-    "need_save": true,
+    "need_save": false,
     "notice_type": 0
   },
   {

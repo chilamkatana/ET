@@ -17,6 +17,10 @@ MonoBehaviour:
     Version: 
   - Name: com.etetet.init
     Version: 
+  - Name: cn.etetet.yiuinumericconfig
+    Version: 
+  - Name: cn.etetet.yiuilubangen
+    Version: 
   - Name: cn.etetet.yiuiinvoke
     Version: 3.0.0
   - Name: cn.etetet.yiui
@@ -36,7 +40,7 @@ MonoBehaviour:
   - Name: com.unity.modules.unitywebrequestaudio
     Version: 1.0.0
   - Name: com.unity.modules.unitywebrequestassetbundle
-    Version: 
+    Version: 1.0.0
   - Name: com.unity.modules.unitywebrequest
     Version: 1.0.0
   - Name: com.unity.modules.unityanalytics
@@ -107,6 +111,10 @@ MonoBehaviour:
     Version: 1.1.2
   - Name: cn.etetet.yiuireddot
     Version: 1.1.2
+  - Name: cn.etetet.yiuinumeric
+    Version: 3.2.0
+  - Name: cn.etetet.yiuiluban
+    Version: 1.4.1
   - Name: cn.etetet.yiuiloopscrollrectasync
     Version: 1.1.2
   - Name: cn.etetet.yiuilocalization
@@ -171,6 +179,8 @@ MonoBehaviour:
     Version: 3.0.0
   - Name: cn.etetet.actorlocation
     Version: 3.0.0
+  - Name: cn.etetet.yiuicodeanalysis
+    Version: 0.0.1
   BanPackageInfo: []
-  LastUpdateTime: 1745546926
+  LastUpdateTime: 1745552833
   UpdateInterval: 3600

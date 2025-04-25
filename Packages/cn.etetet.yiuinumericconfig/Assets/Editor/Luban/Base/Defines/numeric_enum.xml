@@ -4,6 +4,7 @@
 <!-- 无效 -->
 <var name="None" value="0"  alias="无" comment = "无"/>
 
+
 <!-- 数值测试 -->
 <var name="NumericTest0" value="100000"  alias="测试_0" comment = "测试_0 (Int)"/> 
 
