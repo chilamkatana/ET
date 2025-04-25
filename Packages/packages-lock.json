@@ -206,6 +206,12 @@
         "cn.etetet.yiuiframework": "1.1.2"
       }
     },
+    "cn.etetet.yiuiaudio": {
+      "version": "file:cn.etetet.yiuiaudio",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.yiuicodeanalysis": {
       "version": "0.0.1",
       "depth": 1,

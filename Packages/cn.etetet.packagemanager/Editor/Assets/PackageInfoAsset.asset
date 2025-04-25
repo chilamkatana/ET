@@ -181,6 +181,8 @@ MonoBehaviour:
     Version: 3.0.0
   - Name: cn.etetet.yiuicodeanalysis
     Version: 0.0.1
+  - Name: cn.etetet.yiuiaudio
+    Version: 0.0.1
   BanPackageInfo: []
-  LastUpdateTime: 1745552833
+  LastUpdateTime: 1745570451
   UpdateInterval: 3600
