@@ -21,8 +21,8 @@ MonoBehaviour:
     EnableAddressable: 1
     LocationToLower: 0
     IncludeAssetGUID: 0
-    IgnoreDefaultType: 1
     AutoCollectShaders: 1
+    IgnoreRuleName: NormalIgnoreRule
     Groups:
     - GroupName: AotDlls
       GroupDesc: 
@@ -55,8 +55,8 @@ MonoBehaviour:
       AssetTags: 
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Packages/cn.etetet.excel/Config/Bytes/c
-        CollectorGUID: 1f8da9b8d3bb3ca469a7f4c383b6a731
+      - CollectPath: Packages/cn.etetet.yiuilubangen/Assets/Config/Binary/Client
+        CollectorGUID: 178e2fa88ac980149a62e390eaa061f8
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory
@@ -179,21 +179,13 @@ MonoBehaviour:
         FilterRuleName: CollectAll
         AssetTags: 
         UserData: 
-      - CollectPath: Packages/cn.etetet.yiuistatesync/Prefabs
-        CollectorGUID: 9389b47696005ca408168562734be3db
-        CollectorType: 0
-        AddressRuleName: AddressByFileName
-        PackRuleName: PackDirectory
-        FilterRuleName: CollectAll
-        AssetTags: 
-        UserData: 
-    - GroupName: Demo
-      GroupDesc: 
+    - GroupName: Audio
+      GroupDesc: "\u97F3\u9891"
       AssetTags: 
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Packages/cn.etetet.yiuidemo/Assets
-        CollectorGUID: f43d2359b004f3242aea56e0ff3e360d
+      - CollectPath: Packages/cn.etetet.yiuiaudio/Assets/Audio
+        CollectorGUID: f436f81cb2e4eba48aacb42c9f4b5cfd
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory
